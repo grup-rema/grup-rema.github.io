@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            ReMA
 tagline:          "Recerca matemàtica aplicada a l'aula."
 description:      "Recerca matemàtica aplicada a l'aula."
-url:              https://mcuquet.github.io
-baseurl:          '/rema'
+url:              https://grup-rema.github.io
+#baseurl:          '/rema'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -17,7 +17,7 @@ baseurl:          '/rema'
 author:
   name:           'Grup ReMA'
 #  url:            https://twitter.com/
-  mail:           'rema-grup+managers@xtec.cat'
+  mail:           'grup.rema@gmail.com'
 
 paginate:         5
 # paginate_path:    '/page:num'
