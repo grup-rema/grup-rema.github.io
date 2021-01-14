@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Som un grup de treball de professors de matemàtiques de diversos centres interessats en la recerca en didàctica de les matemàtiques i la seva aplicació pràctica a l'aula.
+  Som un grup de treball de docents de matemàtiques de diversos centres interessats en la recerca en didàctica de les matemàtiques i la seva aplicació pràctica a l'aula.
 </p>
 
 ## Objectius
