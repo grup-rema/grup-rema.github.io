@@ -37,6 +37,10 @@ Recollim els nostres materials aquí:
 - [Curs 2019-2020](https://drive.google.com/drive/folders/1cruqqMdzPqGUwFW1vBXxcRwPSkSsmHpm?usp=sharing)
 - [Curs 2020-2021](https://drive.google.com/drive/folders/1q3T3fL1BSv5I4Jn0p__Ko6lCS3pvt54W?usp=sharing)
 
+## Contacte
+
+Ens pots escriure a grup.rema a gmail.com. Ens organitzem a través d'[aquesta llista de correu](https://groups.google.com/a/xtec.cat/g/rema-grup).
+
 ## Llicència
 
 Els materials s'ofereixen amb la llicència [Creative Commons Reconeixement-NoComercial-CompartirIgual 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ca).
