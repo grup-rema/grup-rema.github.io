@@ -30,7 +30,7 @@ Després de discutir sobre les propostes de l'article, vam compartir diverses ac
 - Una idea sobre plantejar una «màquina» de congruències (existeix una [activitat de residus a Nrich](https://nrich.maths.org/1783) que potser seria útil).
 - Descomposar un nombre en dos sumands i maximitzar el producte.
 - [Tres daus i arrodoniment](https://nrich.maths.org/10428).
-- (Geoplans i pensament exhaustiu)[http://puntmat.blogspot.com/2013/09/geoplans-i-pensament-exhaustiu.html].
+- [Geoplans i pensament exhaustiu](http://puntmat.blogspot.com/2013/09/geoplans-i-pensament-exhaustiu.html).
 - El coet dels polinomis.
 
 Finalment, ens vam centrar en desenvolupar l'[activitat de suma de fraccions](https://docs.google.com/document/d/1U_CmQ_8O5s08qaMYk6UMo3rUsLKxCSfwRVdKm7ktZPY/edit?usp=sharing) proposada a l'article i la portarem a l'aula al llarg d'aquest mes.
