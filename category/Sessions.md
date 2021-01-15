@@ -3,4 +3,4 @@ layout: category
 title: Sessions
 ---
 
-Sessions del grup.
+Sessions del curs 2020-2021.
