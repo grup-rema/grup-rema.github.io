@@ -2,6 +2,11 @@
 layout: post
 title: "L'avaluació de la resolució de problemes"
 category: Sessions
+tags:
+  - avaluació
+  - resolució de problemes
+  - rúbriques
+  - bases d'orientació
 ---
 
 El mes passat vam descobrir [bones activitats per a la transició entre primària i secundària](/sessions/2021/01/15/Bones-activitats-per-a-la-transició-entre-primària-i-secundària.html), però va quedar obert com podíem enfocar-ne l'avaluació. Així que aquest mes de febrer la [Pilar](https://twitter.com/PilarDeMates) i la Victòria [ens han presentat](https://drive.google.com/file/d/1jomVh3C-QRDVr_ZJCyphzN7zneQJj_Fr/view) l'[avaluació de la resolució de problemes](https://www.raco.cat/index.php/Noubiaix/article/view/371494) a partir de l'article de la [Joana Villalonga](https://twitter.com/joanavillalonga) i en [Jordi Deulofeu](https://twitter.com/DeulofeuJordi), publicat a [NouBiaix](https://www.raco.cat/index.php/Noubiaix).
