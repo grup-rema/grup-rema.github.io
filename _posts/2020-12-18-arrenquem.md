@@ -2,6 +2,8 @@
 layout: post
 title: Arrenquem!
 category: Sessions
+tags:
+  - competències
 ---
 
 La setmana passada vam arrencar el grup de treball d'aquest curs. Hem passat a 25 inscrits! Els 17 que ens vam poder connectar, entre junta i junta d'avaluació, vam revisar [què havíem fet el curs passat i com ens organitzarem ara](https://docs.google.com/presentation/d/1yBp5ciKgfxRauj9IiM99oanOMXqC2mvPzorX1nMIyog/edit?usp=sharing).
