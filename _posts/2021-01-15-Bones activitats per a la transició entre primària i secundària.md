@@ -2,6 +2,10 @@
 layout: post
 title: Bones activitats per a la transició entre primària i secundària
 category: Sessions
+tags:
+  - resolució de problemes
+  - primària
+  - ESO 1
 ---
 
 A la sessió del mes de gener, l'Enric i en Josep ens van presentar l'article sobre [Bones activitats per a la transició entre primària i secundària](https://www.raco.cat/index.php/Noubiaix/article/view/302380/392058) d'en [David Barba](https://twitter.com/DavidBarba2) i la [Cecilia Calvo](https://twitter.com/ccbcnmvd), publicat a la revista [NouBiaix](https://www.raco.cat/index.php/Noubiaix).
