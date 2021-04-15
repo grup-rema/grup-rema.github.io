@@ -2,6 +2,9 @@
 layout: post
 title: "El laboratori de matemàtiques Maria Antònia Canals"
 category: Sessions
+tags:
+  - laboratori de matemàtiques
+  - materials manipulatius
 ---
 
 Seguim amb les sessions d'enguany del grup de treball amb un tercer article de la revista [NouBiaix](https://www.raco.cat/index.php/Noubiaix). A la sessió del març, en [Joan](https://twitter.com/golilopjo) i la [Mamen](https://twitter.com/mamennaviogmai1) van presentar l'article sobre el [laboratori de matemàtiques Maria Antònia Canals](https://www.raco.cat/index.php/Noubiaix/article/view/101051), de [Jordi Font](https://twitter.com/jfontgon) i Roger Grau, que expliquen la seva experiència a l'[Institut Baix a Mar](http://matematiquesmarines.blogspot.com/).
