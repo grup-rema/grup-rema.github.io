@@ -4,9 +4,8 @@ title: "Problemes de Fermi"
 category: Sessions
 tags:
   - resolució de problemes
-  - problemes de Fermi
-  - estimació
-  - modelització
+  - jocs
+  - videojocs
 ---
 
 Iniciem el nou curs amb una presentació sobre videojocs a l'aula de Matemàtiques de la mà de [Lluís Albarracín](https://gent.uab.cat/lluisalbarracin/ca), investigador a la Universitat Autònoma de Barcelona que repeteix de nou després de tancar el curs passat amb els [problemes de Fermi](https://grup-rema.github.io/sessions/2021/05/31/Problemes-de-Fermi.html). Hem vist com els videojocs poden esdevenir un context per a la resolució de problemes, la seva potencialitat, hem analitzat els procesos que es duen a terme i algunes experiències d'aula.
