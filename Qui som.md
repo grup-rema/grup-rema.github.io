@@ -19,23 +19,24 @@ sidebar_link: true
 
 Fem una sessió mensual on un de nosaltres presenta un article de didàctica de les matemàtiques, que després discutim entre tots. Després ens distribuïm en grups de treball per dissenyar i enriquir activitats a partir d'allò treballat a l'article. Entre sessió i sessió portem aquestes activitats a l'aula, i a la següent sessió compartim les produccions dels alumnes, parlem de com ha anat i fem propostes de millora.
 
-## Calendari 2020-2021
+## Calendari 2021-2022
 
 Fem les sessions de 16:00 a 18:30. Aquest any són telemàtiques:
 
-1. Dijous 10/12/2020
-2. Dijous 14/01/2021
-3. Dijous 11/02/2021
-4. Dijous 11/03/2021
-5. Dijous 15/04/2021
-6. Dijous 20/05/2021
+1. Dimecres 20/10/2021
+2. Dimecres 10/11/2021
+3. Dimecres 12/01/2022
+4. Dimecres 16/02/2022
+5. Dimecres 09/03/2022
+6. Dimecres 04/05/2022
 
 ## Materials
 
 Recollim els nostres materials aquí:
 
-- [Curs 2019-2020](https://drive.google.com/drive/folders/1cruqqMdzPqGUwFW1vBXxcRwPSkSsmHpm?usp=sharing)
-- [Curs 2020-2021](https://drive.google.com/drive/folders/1q3T3fL1BSv5I4Jn0p__Ko6lCS3pvt54W?usp=sharing)
+- [Curs 2019-2020](https://drive.google.com/drive/folders/1cruqqMdzPqGUwFW1vBXxcRwPSkSsmHpm)
+- [Curs 2020-2021](https://drive.google.com/drive/folders/1q3T3fL1BSv5I4Jn0p__Ko6lCS3pvt54W)
+- [Curs 2021-2022](https://drive.google.com/drive/u/1/folders/1DD2CUGUItyKbOexY9bu61DXvWnftcmJ-)
 
 ## Contacte
 
