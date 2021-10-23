@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problemes de Fermi"
+title: "Videojocs a l'aula de Matemàtiques"
 category: Sessions
 tags:
   - resolució de problemes
