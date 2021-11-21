@@ -55,8 +55,6 @@ I finalment, en la [representació](https://www.youtube.com/watch?v=aD-huObwnto)
 - Seleccionar, aplicar i traduir entre representacions matemàtiques per resoldre problemes.
 - Utilitzar representacions per modelitzar i interpretar fenòmens físics, socials i matemàtics.
 
-Dins d'aquest cinc processos (corresponents a les quatre dimensions del nostre currículum), quines són les accions que els alumnes han de dur a terme per fer matemàtiques? Les podem extreure de la formulació de les competències, i inclouen accions com _traduir_, _utilitzar_, _emprar_, _assajar_, _generar_, _plantejar_, _construir_, _expressar_, _contrastar_, _justificar_, _validar_, _analiztar_, _raonar_, _identificar_, _cercar_, _relacionar_, _representar_, _comprendre_, _compartir_, _construir_, _seleccionar_, _gestionar_, _mostrar_, _visualitzar_ i _estructurar_. Hi ha moltes maneres de posar en joc aquestes accions. Una de possible és la següent.
-
-![image tooltip here](/assets/Problema-Competències.png)
+Dins d'aquest cinc processos (corresponents a les quatre dimensions del nostre currículum), quines són les accions que els alumnes han de dur a terme per fer matemàtiques? Les podem extreure de la formulació de les competències, i inclouen accions com _traduir_, _utilitzar_, _emprar_, _assajar_, _generar_, _plantejar_, _construir_, _expressar_, _contrastar_, _justificar_, _validar_, _analiztar_, _raonar_, _identificar_, _cercar_, _relacionar_, _representar_, _comprendre_, _compartir_, _construir_, _seleccionar_, _gestionar_, _mostrar_, _visualitzar_ i _estructurar_.
 
 Hem acabat la sessió discutint com podien ser les activitats que promoguin totes aquestes accions i començant a organitzar-nos en quatre grups per dissenyar-les i portar-les a l'aula.
