@@ -3,10 +3,10 @@ layout: post
 title: "L'escriptura matemàtica com a competència"
 category: Sessions
 tags:
-  - Raonament
-  - Comunicació i representació
-  - Llenguatge
-  - Lògica
+  - raonament i prova
+  - comunicació i representació
+  - llenguatge
+  - lògica
 ---
 
 En aquesta cinquena sessió del curs, la Gara [ens ha presentat com treballar l'escriptura de les matemàtiques](https://drive.google.com/file/d/1T0Jct6scbWkFN1ZUACGNKvVCNoG2_5u2/view) a partir de les propostes didàctiques de tres articles, i especialment del primer:
