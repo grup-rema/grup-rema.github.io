@@ -9,7 +9,7 @@ tags:
   - Lògica
 ---
 
-En aquesta quarta sessió del curs, la Gara [ens ha presentat com treballar l'escriptura de les matemàtiques](https://drive.google.com/file/d/1T0Jct6scbWkFN1ZUACGNKvVCNoG2_5u2/view) a partir de les propostes didàctiques de tres articles, i especialment del primer:
+En aquesta cinquena sessió del curs, la Gara [ens ha presentat com treballar l'escriptura de les matemàtiques](https://drive.google.com/file/d/1T0Jct6scbWkFN1ZUACGNKvVCNoG2_5u2/view) a partir de les propostes didàctiques de tres articles, i especialment del primer:
 
 - Pascual, FJ; Romero, AR (2010). [Lectura, escritura, lógica y matemáticas](https://www.grao.com/es/producto/lectura-escritura-logica-y-matematicas). _Uno: Revista de didáctica de las matemáticas, 55_, 109-117.
 - Molina, M (2014). [Traducción del simbolismo algebraico al lenguaje verbal: indagando en la comprensión de estudiantes de diferentes niveles educativos](https://gaceta.rsme.es/abrir.php?id=1222). _Gaceta de la Real Sociedad Matemática Española, 17(3)_, 559-579.
