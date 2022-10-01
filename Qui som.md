@@ -25,7 +25,7 @@ Fem una sessió mensual on un de nosaltres presenta un article de didàctica de 
 
 Fem les sessions en dimarrts de 16:00 a 18:30 a l'INS Pere Borrell de Puigcerdà o telemàticament:
 
-1. Dimarts 28/10/2022
+1. Dimarts 18/10/2022
 2. Dimarts //
 3. Dimarts //
 4. Dimarts //
