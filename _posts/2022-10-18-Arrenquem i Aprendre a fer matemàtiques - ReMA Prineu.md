@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arrenquem i Aprendre a fer matemàtiques - ReMA Prineu!
+title: Arrenquem i Aprendre a fer matemàtiques - ReMA Pirineu!
 category: Sessions
 tags:
   - competències
