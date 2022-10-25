@@ -22,7 +22,7 @@ En aquesta primera sessió vam comptar amb la presència d'en **Martí Cuquet** 
 
 En Martí va desglossar els processos d'aprenentatge de les matemàtiques per a acabar definint el que significa per a nosaltres "fer matemàtiques". Va relacionar aquests processos amb els actuals blocs competencials (antigues dimensions) i a les competències específiques (o no tan específiques, com la C8 i C9) i els seus verbs d'acció d'una forma clara i entenedora. Finalment, vam entendre que en una activitat rica hi podien entrar totes les competències i que es podrien enllaçar de la següent manera:
 
-![Figure 1-1]([https://raw.github.com/username/repo/master/images/figure 1-1.png](https://github.com/grup-rema/grup-rema.github.io/blob/master/_posts/images/actCMP.PNG?raw=true) "Figure 1-1")
+![Alt text](images/actCMP.PNG?raw=true "diagrama")
 
 Per a concloure la sessió, vam partir d'un exemple senzill d'un llibre de text per a analitzar amb detall com es podria enriquir. Els passos que vam seguir en l'anàlisis van ser:
 
