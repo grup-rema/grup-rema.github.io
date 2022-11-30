@@ -1,3 +1,10 @@
+---
+layout: post
+title: Contextos lúdics per treballar matemàtiques - ReMA Pirineu
+category: Sessions
+tags:
+  - competències
+---
 La sessió 2 ha girat entorn a la presentació d’en Pau Balaguer Llaquet (@pbalaguer19) “Contextos lúdics per treballar matemàtiques”.
 
 En aquesta presentació en Pau ha parlat de les diferències entre jocs, recreacions i gamificacions, i com aquests jocs poden combinar estratègia i atzar. Alguns d’aquests jocs els ha extret d’en Jordi Deulofeu: https://juegosydesafiosmatematicos.com/
