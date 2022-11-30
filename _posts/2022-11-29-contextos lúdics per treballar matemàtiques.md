@@ -52,20 +52,19 @@ Un apartat diferent han tingut els passatemps i puzzles, els quals existeixen mo
 -	Al Bloc d'Ana Garcia Azcarate (https://anagarciaazcarate.wordpress.com/)es poden trobar alguns d’aquests puzzles modificats per a treballar continguts matemàtics, així com d’altres jocs.
 
 Altres recreacions:
--	Bingo d'equacions (http://www.aomatos.com/juegos/bingo-ecuaciones.php?p=8&tipo=1
--	)
--	Enfonsar la flota (http://aomatos.com/juegos/bingo-sistemas.php?p=0&tipo=1&tope=2)
--	Balança d'equacions (creada per en Pau Balaguer) (https://pbalaguer19.github.io/bEquacions/)
--	Math Escape (http://ludomath.es/MathEscape/mathescape.php)
+-	Bingo d'equacions http://www.aomatos.com/juegos/bingo-ecuaciones.php?p=8&tipo=1
+-	Enfonsar la flota http://aomatos.com/juegos/bingo-sistemas.php?p=0&tipo=1&tope=2
+-	Balança d'equacions (creada per en Pau Balaguer) https://pbalaguer19.github.io/bEquacions/
+-	Math Escape http://ludomath.es/MathEscape/mathescape.php
 
 Bancs de recursos:
 -	Fitxes d'en Pau Balaguer preparades per l'aula 
 
-(https://drive.google.com/drive/folders/1Os1m7WiK7bnPxf_T8MoDunjyTSJVnzHa
+https://drive.google.com/drive/folders/1Os1m7WiK7bnPxf_T8MoDunjyTSJVnzHa
 
 -	Activitats del llibre "Aprender a Enseñar Matemàticas" 
 
--	(https://docs.google.com/spreadsheets/d/1wZ7Qtb57KJ4VzA4VzwtKmpzQWlqhSnWMEZWvmXRudi4/edit#gid=0
+-	https://docs.google.com/spreadsheets/d/1wZ7Qtb57KJ4VzA4VzwtKmpzQWlqhSnWMEZWvmXRudi4/edit#gid=0
 
 -	https://gex-sud.circo.ac-lyon.fr/spip/spip.php?article244 
 -	Descàrregues del MMACA (https://mmaca.cat/descarregues/)
