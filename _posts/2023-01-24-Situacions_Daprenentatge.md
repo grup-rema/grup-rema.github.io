@@ -49,9 +49,9 @@ Matemàtiques**
 > els . En el nou currículum es pot escollir quins continguts caldria
 > fer.
 
-2.  **[Què entenem per dimensions?]{.underline}**
+2.  **[Què entenem per dimensions?]**
 
-> **[Resolució de problemes]{.underline}**
+> **[Resolució de problemes]**
 >
 > L'estudiant busca una resolució no coneguda amb una mica d'esperit
 > científic, assaig i prova, i intentant trobar nocions matemàtiques
@@ -80,7 +80,7 @@ Matemàtiques**
 >
 > [[https://sites.google.com/xtec.cat/cesire-matematiques-campanyes/dimensi%C3%B3-web/problemes-en-tres-actes]{.underline}](https://sites.google.com/xtec.cat/cesire-matematiques-campanyes/dimensi%C3%B3-web/problemes-en-tres-actes)
 >
-> **[Raonament i prova]{.underline}**: mètodes per desenvolupar i
+> **[Raonament i prova]**: mètodes per desenvolupar i
 > codificar coneixements.
 >
 > Un dels exemples seria la Conjectura de Goldbach: tot nombre enter
@@ -91,7 +91,7 @@ Matemàtiques**
 > et puc dir quina edat tens." Han de ser capaços de trobar el mètode
 > per a trobar el resultat.
 >
-> **[Connexions]{.underline}**: quan un alumne és capaç de connectar les
+> **[Connexions]**: quan un alumne és capaç de connectar les
 > matemàtiques amb altres àrees de les matemàtiques o altres matèries
 > gràcies a un aprenentatge profund i durador. Pregunta clau: "En què
 > s'assembla aquest problema amb els que hem estudiat fins ara? En
@@ -120,16 +120,16 @@ Matemàtiques**
   4                  7         8       VVCVVCCVVVCCVCC
   ------------------------------------------------------------------------
 
-> **[Comunicació]{.underline}**: És una part essencial, tan oral com
+> **[Comunicació]**: És una part essencial, tan oral com
 > escrita. Organitzar i consolidar el pensament matemàtic, comunicar el
 > pensament matemàtic, analitzar i avaluar el pensament matemàtic dels
 > altres,\...
 >
-> **[Representació]{.underline}**: Visualitzar les idees matemàtiques
+> **[Representació]**: Visualitzar les idees matemàtiques
 > per comunicar, resoldre de problemes i crear models. Veure l'enllaç
 > del CREAMAT.
 
-3.  **[On anem?]{.underline}**
+3.  **[On anem?]**
 
 > **Competències específiques**: accions que han d'aprendre els
 > estudiants agrupades en els bloc:
