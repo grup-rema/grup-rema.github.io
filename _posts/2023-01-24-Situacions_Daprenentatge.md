@@ -10,7 +10,7 @@ Presentació de Lluís Mora
 **Títol: Situacions d\'aprenentatge i projectes en l\'àmbit de
 Matemàtiques**
 
-1.  **[On som?]{.underline}**
+1.  **On som?**
 
 > Venim d'un currículum que estava estructurat de manera molt semblant
 > al nou.
